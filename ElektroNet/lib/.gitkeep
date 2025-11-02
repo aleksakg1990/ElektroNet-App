@@ -1,0 +1,8 @@
+# Ovaj fajl čuva lib folder u Git repozitorijumu
+#
+# Dodajte JAR fajlove ovde:
+# - mysql-connector-j-8.0.33.jar
+# - rs2xml.jar
+#
+# Napomena: JAR fajlovi nisu uključeni u repozitorijum zbog veličine.
+# Preuzmite ih ručno prema uputstvima u README.md
